@@ -1,5 +1,5 @@
 const assert = require('chai').assert;
-const couter = require('../counter');
+const counter = require('../counter');
 //Results
 counterResult = counter.counter();
 
