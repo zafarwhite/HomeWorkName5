@@ -5,7 +5,7 @@ counterResult = counter.counter();
 
 describe('task testing counter', () => {
     describe('counter()', () => {
-        it('counter should return typof number' () => {
+        it('counter should return typof number', () => {
             assert.typeof(counterResult, 'number')
         })
     })
