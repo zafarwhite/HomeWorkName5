@@ -4,10 +4,10 @@ const couter = require( ' ../counter');
 
 
 describe('Counter', () => {
-    // makeCounterResult = counter.makeCounter();
-    describe('makeCounter()', () => {
-        it('makeCounter should return typof number' () => {
-            assert.typeof(makeCounterResult, 'number')
+    counterResult = counter.makeCounter();
+    describe('counter()', () => {
+        it('counter should return typof number' () => {
+            assert.typeof(counterResult, 'number')
         })
     })
 })
