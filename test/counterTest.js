@@ -4,7 +4,7 @@ const couter = require('../counter');
 
 
 describe('Counter', () => {
-    counterResult = counter.makeCounter();
+    counterResult = counter.counter();
     describe('counter()', () => {
         it('counter should return typof number' () => {
             assert.typeof(counterResult, 'number')
