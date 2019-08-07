@@ -1,0 +1,26 @@
+{
+  "name": "homeworkname5",
+  "version": "1.0.0",
+  "description": "Testing",
+  "main": "counter.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zafarwhite/HomeWorkName5.git"
+  },
+  "author": "Zafarwhite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zafarwhite/HomeWorkName5/issues"
+  },
+  "homepage": "https://github.com/zafarwhite/HomeWorkName5#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  },
+  "directories": {
+    "test":  "test"
+  }
+}
