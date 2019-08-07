@@ -1,5 +1,5 @@
-const assert = require( 'chai' ).assert;
-const couter = require( ' ../counter');
+const assert = require('chai').assert;
+const couter = require('../counter');
 //Results
 
 
